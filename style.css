@@ -1,0 +1,52 @@
+.hero{
+    background-image: url(https://uploads-ssl.webflow.com/5b680680f109cf5a2fd941ab/5b6817d95fc94c67bf48eaab_image-header.jpg);
+    height: 579px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav{
+    position: fixed;
+    left: 0;
+    right: 0;
+    
+}
+
+a{
+    color: white !important;
+}
+
+
+.div-button{
+    margin-left: 190px;
+    height: 60px;
+    border-radius: 6px;
+    color: white;
+    background-color: rgb(110, 225, 110);
+}
+
+
+.button-0{
+    height: 50px;
+    color: white;
+    background-color: transparent;
+}
+.button-0:hover{
+    color: black;
+    background-color: white;
+}
+
+.soso{
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+.sese{
+    background-image: url("https://uploads-ssl.webflow.com/5b680680f109cf5a2fd941ab/5b6828cd23db9d2325f990e6_image-slider-02.jpg");
+    height: 715px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 200px;
+}
+
+
